@@ -23,9 +23,9 @@
     <string name="english_ime_input_options" msgid="3909945612939668554">"Opções de entrada"</string>
     <string name="use_contacts_for_spellchecking_option_title" msgid="5374120998125353898">"Buscar nomes de contatos"</string>
     <string name="use_contacts_for_spellchecking_option_summary" msgid="8754413382543307713">"O corretor ortográfico usa entradas de sua lista de contatos"</string>
-    <string name="vibrate_on_keypress" msgid="5258079494276955460">"Vibrar ao tocar a tecla"</string>
+    <string name="vibrate_on_keypress" msgid="5258079494276955460">"Vibrar ao digitar"</string>
     <string name="sound_on_keypress" msgid="6093592297198243644">"Som ao tocar a tecla"</string>
-    <string name="popup_on_keypress" msgid="123894815723512944">"Exibir pop-up ao digitar"</string>
+    <string name="popup_on_keypress" msgid="123894815723512944">"Mostrar letra em pop-up ao digitar"</string>
     <string name="settings_screen_preferences" msgid="2696713156722014624">"Preferências"</string>
     <string name="settings_screen_accounts" msgid="2786418968536696670">"Contas e privacidade"</string>
     <string name="settings_screen_appearance" msgid="7358046399111611615">"Aparência e layouts"</string>
@@ -105,12 +105,12 @@
     <string name="subtype_en_GB" msgid="88170601942311355">"inglês (Reino Unido)"</string>
     <string name="subtype_en_US" msgid="6160452336634534239">"inglês (EUA)"</string>
     <string name="subtype_es_US" msgid="5583145191430180200">"espanhol (EUA)"</string>
-    <string name="subtype_hi_ZZ" msgid="8860448146262798623">"Híndi-inglês"</string>
+    <string name="subtype_hi_ZZ" msgid="8860448146262798623">"Hindi-inglês"</string>
     <string name="subtype_sr_ZZ" msgid="9059219552986034343">"Sérvio (Latino)"</string>
     <string name="subtype_with_layout_en_GB" msgid="1931018968641592304">"Inglês (Reino Unido) (<xliff:g id="KEYBOARD_LAYOUT">%s</xliff:g>)"</string>
     <string name="subtype_with_layout_en_US" msgid="8809311287529805422">"Inglês (EUA) (<xliff:g id="KEYBOARD_LAYOUT">%s</xliff:g>)"</string>
     <string name="subtype_with_layout_es_US" msgid="510930471167541338">"espanhol (EUA) (<xliff:g id="KEYBOARD_LAYOUT">%s</xliff:g>)"</string>
-    <string name="subtype_with_layout_hi_ZZ" msgid="6827402953860547044">"Híndi-inglês (<xliff:g id="KEYBOARD_LAYOUT">%s</xliff:g>)"</string>
+    <string name="subtype_with_layout_hi_ZZ" msgid="6827402953860547044">"Hindi-inglês (<xliff:g id="KEYBOARD_LAYOUT">%s</xliff:g>)"</string>
     <string name="subtype_with_layout_sr_ZZ" msgid="2859024772719772407">"Sérvio (<xliff:g id="KEYBOARD_LAYOUT">%s</xliff:g>)"</string>
     <string name="subtype_generic_traditional" msgid="8584594350973800586">"<xliff:g id="LANGUAGE_NAME">%s</xliff:g> (tradicional)"</string>
     <string name="subtype_generic_compact" msgid="3353673321203202922">"<xliff:g id="LANGUAGE_NAME">%s</xliff:g> (compacto)"</string>
